@@ -1,0 +1,10 @@
+# Arquivos de compilação (Objetos e Binários)
+*.o
+*.axf
+*.srec
+
+# Arquivos de depuração e dumps de memória
+*.objdump
+
+# Opcional: Se o Monitor Program gerar logs temporários em sua máquina
+*.log
