@@ -42,23 +42,6 @@ Projeto desenvolvido para a disciplina de **Projeto de Sistemas Computacionais E
 
 ---
 
-## Demonstração
-
-O jogo exibe, via saída VGA (resolução lógica 320×240, upscale automático para 640×480), um labirinto azul clássico de Pac-Man, com o jogador (círculo amarelo com "boca" direcional) sendo perseguido por 4 fantasmas (com o tema visual de "pão de queijo com Nutella" 🧀), pastilhas para coletar, *power pellets* que assustam os fantasmas, placar de pontuação, vidas e fase no topo da tela.
-
-```
-SCORE:300      VIDAS:3      FASE:1                    PAC-MAN UFSCar
-        === PAC-MAN ===
-        UFSCar - Sist. Embarcados
-
-  ██████████████████████
-  █o..........  ..o.█
-  █.██.███████.██..█.█
-  ...
-```
-
----
-
 ## Visão geral
 
 | Item | Descrição |
