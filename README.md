@@ -267,7 +267,7 @@ Usa o **ARM A9 Private Timer** (`MPCORE_PRIV_TIMER`) em modo contínuo (*auto-re
 ### Sprites (`sprites.h`)
 
 - `draw_pacman()` — círculo amarelo com uma "boca" recortada por rotação de coordenadas conforme a direção do movimento;
-- `draw_ghost()` — fantasma temático "pão de queijo com Nutella": semicírculo + corpo retangular, camada escura no topo simulando recheio, "saias" onduladas na base, olhos brancos com pupila azul;
+- `draw_ghost()` — fantasma temático: semicírculo + corpo retangular, olhos brancos com pupila azul;
 - `draw_ghost_scared()` — alterna azul/branco (efeito de piscar) quando o fantasma está assustado;
 - `draw_score()` — escreve pontuação, vidas, fase e título diretamente no *character buffer* (`FPGA_CHAR_BASE`).
 
